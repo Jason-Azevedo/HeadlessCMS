@@ -1,2 +1,7 @@
-# headless-cms-demo
-A dummy project for messing around with dotnet API's while building a portion of a headless CMS (Content Management System).
+# HeadlessCMS
+
+This project is a little backend API project built with dotnet mean't to be a simple Headless Content Management System (CMS).
+
+## Requirements
+
+- .Net 8
